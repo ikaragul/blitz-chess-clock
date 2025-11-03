@@ -1,6 +1,7 @@
 # Blitz Chess Clock
 
 Abstract
+
   In this project, we’ve created a Blitz Chess Clock, which is essentially a chess clock designed
 to be used specifically for Blitz games. Blitz games in chess are very short and quick, as their name
 suggests, which in turn requires quick and efficient moves, making timekeeping very hard without
@@ -16,6 +17,7 @@ it is an easy-to-use program for any chess lover and grants them the ability to 
 management and speed like Blitz chess anywhere.
 
 About The Project
+
   Our aim in this project was to create a Blitz chess clock using the tools that are given to
 us and give the chess players a way that allows them to play such a time-sensitive chess style
 anywhere in the world, since they would have all the functionality of a chess clock. Firstly,
