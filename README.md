@@ -16,6 +16,8 @@ resumed, and reset anytime the user wants. The user can also end their turn via 
 it is an easy-to-use program for any chess lover and grants them the ability to play a game of time
 management and speed like Blitz chess anywhere.
 
+
+
 About The Project
 
   Our aim in this project was to create a Blitz chess clock using the tools that are given to
